@@ -1,4 +1,5 @@
-# $SPARK_HOME/bin/spark-submit movielens_analysis.py 
+### $SPARK_HOME/bin/spark-submit movielens_analysis.py 
+### Data visualization of movielens dataset.
 from pyspark import SparkContext
 import matplotlib.pyplot as plt
 import numpy as np
